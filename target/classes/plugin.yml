@@ -1,0 +1,4 @@
+name: TGuns
+version: '1.0-SNAPSHOT'
+main: me.teixtarcio.tguns.TGuns
+api-version: '1.20'

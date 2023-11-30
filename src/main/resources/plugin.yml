@@ -1,0 +1,4 @@
+name: TGuns
+version: '${project.version}'
+main: me.teixtarcio.tguns.TGuns
+api-version: '1.20'
